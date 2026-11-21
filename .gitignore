@@ -3,6 +3,7 @@
 
 # katalogi Pythona
 __pycache__
+.pytest_cache
 
 # pliki systemowe
 .DS_Store
